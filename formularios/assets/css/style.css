@@ -1,0 +1,36 @@
+.verde{
+    margin: auto;
+    background-color: green;
+    border: 7px solid cornflowerblue;
+    border-radius: 5px;
+    height: 350px;
+    width: 400px;
+
+}
+
+.rojo{
+    width: auto;
+    border: 2px solid red;
+    border-radius: 3px;
+    margin-left: 30px;
+    margin-top: 3px;
+}
+
+.blanco{
+    
+    color: white;
+    margin-left: 60px;
+}
+.uno{
+    color: white;
+    margin-left: 30px;
+}
+
+.pedido{
+    margin-left: 50px;
+}
+
+label{
+    display:inline-block;
+    width: 80px;
+}

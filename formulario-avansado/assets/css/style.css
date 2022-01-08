@@ -1,0 +1,16 @@
+.formulario{
+    border: 3px solid red;
+}
+
+.nombre input{
+    border: 2px dashed green;
+}
+
+.apellido{
+    border: 2px dashed red;
+    border-radius: 2px;
+}
+.password{
+    border:2px dashed rgb(94, 255, 0);
+}
+

@@ -1,0 +1,17 @@
+table, tr, th, td{
+    border: 1px solid rgb(131, 218, 17);
+    background-color: crimson;
+
+}
+
+table{
+   /*  width: 300px; */
+}
+
+td{
+    background-color: blueviolet;
+}
+
+th{
+    background-color: coral;
+}

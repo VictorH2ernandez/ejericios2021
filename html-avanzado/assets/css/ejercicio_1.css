@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+}
+
+table, tr, th, td{
+    border: 1px solid black
+
+}
+table{
+    width: 650px;
+    height: 60px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+
+.color{
+    background-color: chocolate;
+}
+
+.verde{
+    background-color: lawngreen;
+}
+.negro{
+    background-color: black;
+}
